@@ -1,2 +1,4 @@
 print("Welcome to git world!")
-print("This is second line!")
+
+n = 10
+print(n)
